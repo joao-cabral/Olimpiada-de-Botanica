@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Olimpíada de Botânica</string>
+    <string name="jogar">Jogar</string>
+    <string name="c_digo_da_sala">Código da Sala</string>
+    <string name="guia">Guia</string>
+    <string name="dica_n_1">Dica N° 1</string>
+    <string name="sou_uma_planta_ep_fita_que_cresce_presa_aos_troncos_e_galhos_de_arvores">Sou uma planta epífita , que
+        cresce presa aos troncos e galhos de arvores.
+    </string>
+</resources>
